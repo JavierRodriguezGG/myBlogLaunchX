@@ -1,4 +1,4 @@
-baseURL = "https://github.com/JavierRodriguezGG/myBlogLaunchX"
+baseURL = "https://javierrodriguezgg.github.io/myBlogLaunchX/"
 languageCode = "en-us"
 title = "Bitácora de Viaje de Javier Rodriguez"
 theme = "hugo-winston-theme"
